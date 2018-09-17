@@ -25,7 +25,7 @@ SECRET_KEY = 'ozmhndmq+a1^s_w89$4_kp&qenk)=-x^@%4+!vfe(^q$r#5f!0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zilani.pythonanywhere.com']
 
 
 # Application definition
